@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yottachen.github.io/sitemap.xml 
